@@ -57,7 +57,7 @@ export default function AboutUs() {
             <h2 className="text-2xl font-bold mb-6 text-white">Our Story</h2>
             <div className="space-y-4 text-gray-300 text-lg leading-relaxed">
               <p>
-                Founded in 2023, Professionals emerged from a vision to democratize access to premium LinkedIn services. We recognized that while LinkedIn's premium features offer immense value for professional growth and business development, not everyone could access these tools at standard rates.
+                Founded in 2024, Professionals emerged from a vision to democratize access to premium LinkedIn services. We recognized that while LinkedIn's premium features offer immense value for professional growth and business development, not everyone could access these tools at standard rates.
               </p>
               <p>
                 What started as a solution for a small group of professionals has grown into a trusted service provider, helping individuals and businesses across the globe leverage LinkedIn's powerful features for their professional success.
